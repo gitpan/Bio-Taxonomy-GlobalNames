@@ -21,7 +21,8 @@ requires:
   JSON::Parse: 0.23
   Moo: 1.003001
   REST::Client: 249
+  Scalar::Readonly: 0.03
   perl: 5.006
 resources:
   repository: https://github.com/dgkontopoulos/Bio-Taxonomy-GlobalNames.git
-version: 0.02
+version: 0.03

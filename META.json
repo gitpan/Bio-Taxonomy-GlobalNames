@@ -32,6 +32,7 @@
             "JSON::Parse" : "0.23",
             "Moo" : "1.003001",
             "REST::Client" : "249",
+            "Scalar::Readonly" : "0.03",
             "perl" : "5.006"
          }
       }
@@ -44,5 +45,5 @@
          "web" : "https://github.com/dgkontopoulos/Bio-Taxonomy-GlobalNames"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
