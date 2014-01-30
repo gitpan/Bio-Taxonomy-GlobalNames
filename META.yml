@@ -19,10 +19,10 @@ no_index:
 requires:
   JSON: 2.9
   JSON::Parse: 0.23
-  Moo: 1.003001
+  Moo::Lax: 0.12
   REST::Client: 249
   Scalar::Readonly: 0.03
-  perl: 5.006
+  perl: 0
 resources:
   repository: https://github.com/dgkontopoulos/Bio-Taxonomy-GlobalNames.git
-version: 0.03
+version: 0.04
