@@ -27,4 +27,4 @@ requires:
   perl: 0
 resources:
   repository: https://github.com/dgkontopoulos/Bio-Taxonomy-GlobalNames.git
-version: 0.05
+version: 0.06
